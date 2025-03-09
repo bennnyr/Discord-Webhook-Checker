@@ -1,0 +1,1 @@
+Code for a discord bot to check messages sent by webhooks in a channel you choose, and if it is inactive it restarts mumuplayer (or any application you would like just add directory to whatever you want)
